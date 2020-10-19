@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LilyAsFlora/h.git"
+    "url": "git+https://github.com/LilyAsFlora/h-inator.git"
   },
   "keywords": [
     "h",
@@ -22,7 +22,7 @@
   "author": "lilielilie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LilyAsFlora/h/issues"
+    "url": "https://github.com/LilyAsFlora/h-inator/issues"
   },
-  "homepage": "https://github.com/LilyAsFlora/h#readme"
+  "homepage": "https://github.com/LilyAsFlora/h-inator#readme"
 }
