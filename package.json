@@ -1,0 +1,28 @@
+{
+  "name": "h",
+  "version": "0.1.0",
+  "description": "Replace every character in a string with h.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilyAsFlora/h.git"
+  },
+  "keywords": [
+    "h",
+    "joke",
+    "humor",
+    "small",
+    "string",
+    "replace",
+    "regex"
+  ],
+  "author": "lilielilie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LilyAsFlora/h/issues"
+  },
+  "homepage": "https://github.com/LilyAsFlora/h#readme"
+}
