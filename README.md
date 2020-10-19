@@ -1,5 +1,5 @@
 # h-inator
-Replaces every character with a string with h.
+Replaces every character in a string with h.
 That's all there is to it.
 
 ## Installation
