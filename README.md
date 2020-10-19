@@ -1,4 +1,4 @@
-# h
+# h-inator
 Replaces every character with a string with h.
 That's all there is to it.
 
