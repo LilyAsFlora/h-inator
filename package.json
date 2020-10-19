@@ -1,5 +1,5 @@
 {
-  "name": "h",
+  "name": "h-inator",
   "version": "0.1.0",
   "description": "Replace every character in a string with h.",
   "main": "src/index.js",
